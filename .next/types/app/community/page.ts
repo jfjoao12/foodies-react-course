@@ -1,4 +1,4 @@
-// File: /home/joao/ProjectSpace/foodies-starting-project/app/community/page.js
+// File: /home/jfjoao/ProjectSpace/foodies-react-course/app/community/page.js
 import * as entry from '../../../../app/community/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
